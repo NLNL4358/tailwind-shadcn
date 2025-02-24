@@ -9,6 +9,8 @@ function App() {
       <div className="flex gap-4">
         <Button variant="default">Button</Button>
       </div>
+
+      <h2 class="card-text">card text</h2>
     </div>
   );
 }
